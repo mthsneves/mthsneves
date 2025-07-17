@@ -104,13 +104,6 @@ title="LINUX"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 
  
- <img align="left" 
- alt="ANGULAR"
-title="ANGULAR" 
- width="30px" 
- style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-
- 
 <img align="left" 
  alt="POSTGRESQL"
 title="POSTGRESQL" 
@@ -119,13 +112,6 @@ title="POSTGRESQL"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 
  
-<img
-align="left" 
- alt="POSTMAN"
-title="POSTMAN" 
- width="30px" 
- style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-
  
 <img align="left" 
  alt="MONGODB"
@@ -133,13 +119,4 @@ title="MONGODB"
  width="30px" 
  style="padding-right: 10px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-
-
- 
- 
-<img align="left" 
- alt="NEST.JS"
-title="NEST.JS" 
- width="30px" 
- style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
 
