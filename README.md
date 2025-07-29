@@ -1,13 +1,3 @@
-# 🧑‍💻Matheus Neves
-**`Desenvolvedor FullStack`**
-
-Me chamo Matheus Neves, tenho 24 anos e sou natural de São Paulo.
-Sou Matheus Neves, tenho 24 anos e sou de São Paulo. Atualmente curso Análise e Desenvolvimento de Sistemas na UNINTER e venho me dedicando ao desenvolvimento full stack. Tenho interesse especial em construir APIs escaláveis e aplicações bem estruturadas, seguindo boas práticas de arquitetura limpa. Trabalho principalmente com Node.js, JavaScript, TypeScript, React e Angular, sempre buscando evoluir, aprender novas tecnologias e entregar soluções que façam sentido na prática.
-
----
-
-### 🤖 Linguagens e Tecnologias
-
 <img 
     align="left" 
     alt="HTML"
@@ -53,21 +43,23 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-origina
 
 <img 
  align="left" 
- alt="EXPRESS"
-title="EXPRESS" 
+ alt="JAVA"
+title="JAVA" 
  width="30px" 
  style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+          
 
  
             
 <img 
  align="left" 
- alt="REACT"
-title="REACT" 
+ alt="SPRING"
+title="SPRING" 
  width="30px" 
  style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
+         
 
  
 <img 
@@ -119,4 +111,3 @@ title="MONGODB"
  width="30px" 
  style="padding-right: 10px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-
