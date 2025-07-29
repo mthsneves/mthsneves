@@ -1,11 +1,20 @@
+# 🧑‍💻Matheus Neves
+**`Desenvolvedor FullStack`**
+
+Me chamo Matheus Neves, tenho 24 anos e sou natural de São Paulo.
+Sou Matheus Neves, tenho 24 anos e sou de São Paulo. Atualmente curso Análise e Desenvolvimento de Sistemas na UNINTER e venho me dedicando ao desenvolvimento full stack. Tenho interesse especial em construir APIs escaláveis e aplicações bem estruturadas, seguindo boas práticas de arquitetura limpa. Trabalho principalmente com Java no backend, e tecnologias como JavaScript, TypeScript, sempre buscando evoluir, aprender novas tecnologias e entregar soluções que façam sentido na prática.
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
 <img 
-    align="left" 
-    alt="HTML"
+     align="left" 
+     alt="HTML"
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-
 <img 
     align="left" 
     alt="CSS"
@@ -32,15 +41,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-origina
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 
 
-          
-<img 
-     align="left" 
-    alt="NODE.JS"
-    title="NODE.JS" 
-    width="30px" 
-    style="padding-right: 10px;"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-
+ 
 <img 
  align="left" 
  alt="JAVA"
@@ -61,14 +62,6 @@ title="SPRING"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
          
 
- 
-<img 
- align="left" 
- alt="NEXT.JS"
-title="NEXT.JS" 
- width="30px" 
- style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 
  <img  
  align="left" 
