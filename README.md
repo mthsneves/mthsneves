@@ -1,10 +1,8 @@
 # 🧑‍💻Matheus Neves
 **`Desenvolvedor FullStack`**
 
-Me chamo Matheus Neves, tenho 24 anos e sou natural de São Paulo.
-Sou Matheus Neves, tenho 24 anos e sou de São Paulo. Atualmente curso Análise e Desenvolvimento de Sistemas na UNINTER e venho me dedicando ao desenvolvimento full stack. Tenho interesse especial em construir APIs escaláveis e aplicações bem estruturadas, seguindo boas práticas de arquitetura limpa. Trabalho principalmente com Java no backend, e tecnologias como JavaScript, TypeScript, sempre buscando evoluir, aprender novas tecnologias e entregar soluções que façam sentido na prática.
+Me chamo Matheus Neves, tenho 24 anos e sou natural de Fernandópolis, interior de São Paulo. Atualmente curso Análise e Desenvolvimento de Sistemas na UNINTER e venho me dedicando ao desenvolvimento full stack. Tenho interesse especial em construir APIs escaláveis e aplicações bem estruturadas, seguindo boas práticas de arquitetura limpa. Trabalho principalmente com Java no backend e tecnologias como JavaScript e TypeScript no frontend. Estou sempre buscando evoluir, aprender novas tecnologias e entregar soluções que façam sentido na prática.
 
----
 
 ### 🤖 Linguagens e Tecnologias
 
