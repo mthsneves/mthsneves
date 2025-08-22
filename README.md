@@ -88,17 +88,18 @@ title="LINUX"
 
  
 <img align="left" 
- alt="POSTGRESQL"
-title="POSTGRESQL" 
+ alt="SQL Server"
+title="SQL Server" 
  width="30px" 
  style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
 
- 
- 
+             
+          
 <img align="left" 
- alt="MONGODB"
-title="MONGODB" 
+ alt="FireBird Database"
+title="FireBird Database" 
  width="30px" 
  style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebird/firebird-original.svg" />
+          
