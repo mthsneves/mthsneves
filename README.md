@@ -1,9 +1,9 @@
 # 🧑‍💻 Matheus Neves
-**`Desenvolvedor .NET`**
+**`Desenvolvedor`**
 
 Sou Matheus Neves, desenvolvedor natural de Fernandópolis (SP).
 
-Atualmente curso Análise e Desenvolvimento de Sistemas e direciono minha formação para a área de desenvolvimento de software com foco em .NET.
+Atualmente curso Análise e Desenvolvimento de Sistemas e direciono minha formação para a área de desenvolvimento de software.
 
 Trabalho com C# e .NET, desenvolvendo aplicações backend e APIs, com atenção à lógica de negócio, integração com bancos de dados e boas práticas de código. Possuo experiência com SQL Server, consumo e testes de APIs com Postman, além de versionamento com Git.
 
