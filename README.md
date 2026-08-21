@@ -5,7 +5,7 @@ Sou Matheus Neves, desenvolvedor natural de Fernandópolis (SP).
 
 Atualmente curso Análise e Desenvolvimento de Sistemas e direciono minha formação para a área de desenvolvimento de software.
 
-Trabalho com C#/.NET e Python/Django/FlaskAPI, desenvolvendo aplicações backend e APIs, com atenção à lógica de negócio, integração com bancos de dados e boas práticas de código. Possuo experiência com SQL Server, consumo e testes de APIs com Postman, além de versionamento com Git.
+Trabalho com C#/.NET e Python/Django/FastAPI, desenvolvendo aplicações backend e APIs, com atenção à lógica de negócio, integração com bancos de dados e boas práticas de código. Possuo experiência com SQL Server, consumo e testes de APIs com Postman, além de versionamento com Git.
 
 Tenho vivência prévia em Qualidade de Software, o que contribui para um olhar mais crítico sobre validação de funcionalidades, confiabilidade e manutenção do código. Estou em constante aprendizado, buscando evoluir em arquitetura de software, padrões de projeto e desenvolvimento backend, com o objetivo de construir sistemas robustos e escaláveis.
 
