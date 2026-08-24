@@ -5,7 +5,7 @@ Sou Matheus Neves, desenvolvedor natural de Fernandópolis (SP).
 
 Atualmente curso Análise e Desenvolvimento de Sistemas e direciono minha formação para a área de desenvolvimento de software.
 
-Trabalho com C#/.NET e Python/Django/FastAPI, desenvolvendo aplicações backend e APIs, com atenção à lógica de negócio, integração com bancos de dados e boas práticas de código. Possuo experiência com SQL Server, consumo e testes de APIs com Postman, além de versionamento com Git.
+Trabalho com C#/.NET e React, desenvolvendo aplicações backend e APIs, com atenção à lógica de negócio, integração com bancos de dados e boas práticas de código. Possuo experiência com SQL Server, consumo e testes de APIs com Postman, além de versionamento com Git.
 
 Tenho vivência prévia em Qualidade de Software, o que contribui para um olhar mais crítico sobre validação de funcionalidades, confiabilidade e manutenção do código. Estou em constante aprendizado, buscando evoluir em arquitetura de software, padrões de projeto e desenvolvimento backend, com o objetivo de construir sistemas robustos e escaláveis.
 
@@ -35,30 +35,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnet
 
 <img  
  align="left" 
- alt="Python"
-title="Python" 
- width="30px" 
- style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-
-<img  
- align="left" 
- alt="Flask"
-title="Flask" 
- width="30px" 
- style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
-
-<img  
- align="left" 
- alt="Django"
-title="Django" 
- width="30px" 
- style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
-          
-<img  
- align="left" 
  alt="TypeScript"
 title="TypeScript" 
  width="30px" 
@@ -73,7 +49,23 @@ title="React"
  style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
           
+<img  
+ align="left" 
+ alt="Java"
+title="Java" 
+ width="30px" 
+ style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 
+<img  
+ align="left" 
+ alt="Spring"
+title="Spring" 
+ width="30px" 
+ style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
+          
+          
 <img align="left" 
  alt="SQL Server"
 title="SQL Server" 
