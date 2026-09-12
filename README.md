@@ -33,22 +33,7 @@ title=".NET CORE"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
 
 
-<img  
- align="left" 
- alt="TypeScript"
-title="TypeScript" 
- width="30px" 
- style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-          
-<img  
- align="left" 
- alt="React"
-title="React" 
- width="30px" 
- style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-          
+                    
                     
 <img align="left" 
  alt="SQL Server"
@@ -74,7 +59,15 @@ title="MONGODB"
  style="padding-right: 10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
 
+<img
+ align="left" 
+ alt="REDIS"
+title="REDIS" 
+ width="30px" 
+ style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
           
+
 
  <img  
  align="left" 
@@ -84,14 +77,25 @@ title="AWS"
  style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
           
-
 <img  
+ align="left" 
+ alt="AZURE"
+title="AZURE" 
+ width="30px" 
+ style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
+
+ <img  
  align="left" 
  alt="AZURE DEVOPS"
 title="AZURE DEVOPS" 
  width="30px" 
  style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" />
+
+
+
+          
 
 
           
@@ -104,6 +108,15 @@ title="Postman"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
 
 
+<img  
+ align="left" 
+ alt="RabbitMQ"
+title="RabbitMQ" 
+ width="30px" 
+ style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" />
+
+
  <img  
  align="left" 
  alt="GIT"
@@ -111,7 +124,6 @@ title="GIT"
  width="30px" 
  style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-
 
           
 <img
