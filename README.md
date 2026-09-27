@@ -14,6 +14,32 @@ Linkedin: https://www.linkedin.com/in/matheus-neves-b912402b1/
 
 ### 🤖 Linguagens e Tecnologias
 
+<img  
+ align="left" 
+ alt="JavaScript"
+title="JavaScript" 
+ width="30px" 
+ style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+          
+<img  
+ align="left" 
+ alt="TypeScript"
+title="TypeScript" 
+ width="30px" 
+ style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+
+
+<img  
+ align="left" 
+ alt="React"
+title="React" 
+ width="30px" 
+ style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+          
+
 
 <img  
  align="left" 
@@ -59,15 +85,7 @@ title="MONGODB"
  style="padding-right: 10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
 
-<img
- align="left" 
- alt="REDIS"
-title="REDIS" 
- width="30px" 
- style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
           
-
 
  <img  
  align="left" 
@@ -85,28 +103,7 @@ title="AZURE"
  style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
 
- <img  
- align="left" 
- alt="AZURE DEVOPS"
-title="AZURE DEVOPS" 
- width="30px" 
- style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" />
-
-
-
-          
-
-
-          
- <img  
- align="left" 
- alt="Postman"
-title="Postman" 
- width="30px" 
- style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-
+            
 
 <img  
  align="left" 
