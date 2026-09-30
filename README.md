@@ -1,13 +1,15 @@
 # Matheus Neves
-**`Desenvolvedor`**
+**`Analista de QA`**
 
-Sou Matheus Neves, desenvolvedor natural de Fernandópolis (SP).
+Sou Matheus Neves, analista de qualidade (QA) natural de Fernandópolis (SP).
 
 Atualmente curso Análise e Desenvolvimento de Sistemas e direciono minha formação para a área de desenvolvimento de software.
 
-Trabalho com C#/.NET e React, desenvolvendo aplicações backend e APIs, com atenção à lógica de negócio, integração com bancos de dados e boas práticas de código. Possuo experiência com SQL Server, consumo e testes de APIs com Postman, além de versionamento com Git.
-
-Tenho vivência prévia em Qualidade de Software, o que contribui para um olhar mais crítico sobre validação de funcionalidades, confiabilidade e manutenção do código. Estou em constante aprendizado, buscando evoluir em arquitetura de software, padrões de projeto e desenvolvimento backend, com o objetivo de construir sistemas robustos e escaláveis.
+Analista de Testes com foco em automação, com experiência em testes funcionais e em testes automatizados de API e E2E
+(Karate Framework, Cypress, Playwright e Postman) em times ágeis. Automatizei 100% dos cenários felizes e a validação de
+exceções de sistemas de peças automotivas e de sinistros, e validei integrações financeiras (boletos, PIX e integrações
+bancárias). Acostumado a analisar demandas, definir cenários de teste e trabalhar de perto com desenvolvedores na
+evolução das automações, com autonomia e foco em resultado.
 
 Linkedin: https://www.linkedin.com/in/matheus-neves-b912402b1/
 
@@ -33,33 +35,39 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typesc
 
 <img  
  align="left" 
- alt="React"
-title="React" 
+ alt="Cucumber"
+title="Cucumber" 
  width="30px" 
  style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-          
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg" />
 
 
 <img  
  align="left" 
- alt="C#"
-title="C#" 
+ alt="KarateLabs"
+title="KarateLabs" 
  width="30px" 
  style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/karatelabs/karatelabs-original.svg" />
 
 
- <img  
+<img  
  align="left" 
- alt=".NET CORE"
-title=".NET CORE" 
+ alt="Cypress"
+title="Cypress" 
  width="30px" 
  style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
 
-
-                    
+<img  
+ align="left" 
+ alt="Playwright"
+title="Playwright" 
+ width="30px" 
+ style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
+          
+                              
                     
 <img align="left" 
  alt="SQL Server"
@@ -68,32 +76,6 @@ title="SQL Server"
  style="padding-right: 10px;" 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
 
- <img
- align="left" 
- alt="PostgreSQL"
-title="PostGreSQL" 
- width="30px" 
- style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-
- 
-<img
- align="left" 
- alt="MONGODB"
-title="MONGODB" 
- width="30px" 
- style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
-
-          
-
- <img  
- align="left" 
- alt="AWS"
-title="AWS" 
- width="30px" 
- style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
           
 <img  
  align="left" 
@@ -103,15 +85,23 @@ title="AZURE"
  style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
 
-            
+<img  
+ align="left" 
+ alt="AZURE-DevOps"
+title="AZURE-DevOps" 
+ width="30px" 
+ style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" />
+          
 
 <img  
  align="left" 
- alt="RabbitMQ"
-title="RabbitMQ" 
+ alt="Postman"
+title="Postman" 
  width="30px" 
  style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+          
 
 
  <img  
@@ -131,18 +121,3 @@ title="DOCKER"
  style="padding-right: 10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
           
-     
-<img align="left" 
- alt="KUBERNETES"
-title="KUBERNETES" 
- width="30px" 
- style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
-
-<br clear="both">
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=mthsneves&show_icons=true&theme=dark)
-
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=mthsneves&layout=compact&theme=dark)
